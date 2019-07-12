@@ -1,0 +1,48 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+# Company A
+- name:
+    detail: Universidad Rey Juan Carlos
+    i18n: company_a
+  desc:
+    detail: Development of Kibotics and Unibotics, an educational robotic platform. Maintenance and deployment of other web applications using Django.
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2019
+    i18n: company_a_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+# Company B
+- name:
+    detail: Association of robotics and Artificial Intelligence, JdeRobot
+    i18n: company_b
+  desc:
+    detail: Development of an educational robotic platform named Kibotics and Unibotics as well as teacher support for students during pilot application courses in these same applications.
+    i18n: company_b_desc
+  date:
+    detail: Dec. 2018
+    i18n: company_b_date
+  job:
+    detail: Developer and support teacher
+    i18n: company_b_job
+  icon: fa-plus-square
+
+# Company C
+- name:
+    detail: Universidad Rey Juan Carlos
+    i18n: company_c
+  desc:
+    detail: Strategy, modeling, construction, development and deploy of a project management platforms for industrial works and daily reports in Django.
+    i18n: company_c_desc
+  date:
+    detail: Dec. 2017
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square

@@ -1,0 +1,15 @@
+# links section data
+- last_name: <a href="https://github.com/igarag/2019-tfm-ignacio-arranz" target="_blank">Master Thesis</a>
+  first_name: Repository
+  website: https://github.com/igarag/2019-tfm-ignacio-arranz
+  i18n: tfm
+
+- last_name: <a href="2019-tfm-ignacio-arranz.github.io" target="_blank">Master Thesis</a>
+  first_name: LogBook
+  website: 2019-tfm-ignacio-arranz.github.io
+  i18n: cuaderno_bitacora
+
+- last_name: <a href="2019-tfm-ignacio-arranz.github.io" target="_blank">Personal</a>
+  first_name: Repository
+  website: https://github.com/igarag
+  i18n: mi_repo

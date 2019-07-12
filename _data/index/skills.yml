@@ -1,0 +1,7 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Linux, Docker, Jupyter, Python, Django, HTML5, JavaScript, Deep Learning, Computer Vision
+percentage: 80, 75, 80, 80, 80, 80, 70, 75, 75
+

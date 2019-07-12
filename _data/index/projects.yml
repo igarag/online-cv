@@ -1,0 +1,21 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Kibotics
+  i18n: kibotics
+  url: https://kibotics.org
+  img: /static/assets/img/landing/kibotics_favicon.png
+  desc: Kibotics is an educational robotics platform. Users launch simulations of different exercises through the web browser so it does not require installation. Allows teaching in several programming languages (Python and Scratch) as well as others that are in development. Oriented to high school students.
+
+- name: Unibotics
+  i18n: unibotics
+  url: https://unibotics.org
+  img: /static/assets/img/landing/unibotics_favicon.png
+  desc: Unibotics is an educational robotics platform. Users launch simulations of different exercises through the web browser so it does not require installation. Used in university teaching in the Degree of Telematics and the Master of Computer Vision. Students solve exercises using Python language.
+
+- name: JdeRobot
+  i18n: jderobot
+  url: https://google.com
+  repo: https://github.com/JdeRobot/base-
+  img: /static/assets/img/landing/logo_jderobot_pantalla_carga.png
+  desc: JdeRobot is a software development suite for robotics, home-automation and computer vision applications. These domains include sensors (for instance, cameras), actuators, and intelligent software in between. It has been designed to help in programming with such intelligent softwares. This project was selected by <a href="https://summerofcode.withgoogle.com/organizations/6728816414687232/" target="_blank">Google Summer of code</a> in 2016, 2017 and 2019.

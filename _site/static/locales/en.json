@@ -1,0 +1,53 @@
+{
+  "website":{
+    "title": "Nacho's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "Telecom and computer vision engineer. Curious. I like to be informed about new technologies and developments. Heavy metal music lover."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "Projects",
+    "kibotics": "Kibotics is an educational robotics platform. Users launch simulations of different exercises through the web browser so it does not require installation. Allows teaching in several programming languages (Python and Scratch) as well as others that are in development. Oriented to high school students.",
+    "unibotics": "Unibotics is an educational robotics platform. Users launch simulations of different exercises through the web browser so it does not require installation. Used in university teaching in the Degree of Telematics and the Master of Computer Vision. Students solve exercises using Python language.",
+    "jderobot": "JdeRobot is a software development suite for robotics, home-automation and computer vision applications. These domains include sensors (for instance, cameras), actuators, and intelligent software in between. It has been designed to help in programming with such intelligent softwares. This project was selected by <a href='https: //summerofcode.withgoogle.com/organizations/6728816414687232/' target='_blank'>Google Summer of code</a> in 2016, 2017 and 2019."
+  },
+  "career":{
+    "my_career": "Career",
+
+    "company_a_desc": "Development of Kibotics and Unibotics, an educational robotic platform. Maintenance and deployment of other web applications using Django.",
+    "company_a_date": "Jun. 2019",
+    
+    "company_b": "Association of robotics and Artificial Intelligence, JdeRobot",
+    "company_b_desc": "Development of an educational robotic platform named Kibotics and Unibotics as well as teacher support for students during pilot application courses in these same applications.",
+    "company_b_date": "Dec. 2018",
+    "company_b_job": "Developer and support teacher",
+
+    "company_c_desc": "Strategy, modeling, construction, development and deploy of a project management platforms for industrial works and daily reports in Django.",
+    "company_c_date": "Dec. 2017"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views",
+
+    "tfm": "Master Thesis Repository",
+    "cuaderno_bitacora": "Master Thesis LogBook",
+    "mi_repo": "Personal Repository"
+  }
+
+}

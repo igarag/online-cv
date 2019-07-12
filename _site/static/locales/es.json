@@ -1,0 +1,53 @@
+{
+    "website": {
+        "title": "Blog de Nacho"
+    },
+    "nav": {
+        "home": "Inicio",
+        "about_me": "Sobre mí",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "career": "Carrera profesional",
+        "blog": "Blog",
+        "link": "Enlaces"
+    },
+    "about_me": {
+        "about_me": "Sobre mí",
+        "des": "Grado en Ingeniería en Sistemas Audiovisuales y Multimedia y Máster en Visión Artificial. Curioso. Me gusta informarme sobre nuevas tecnologías y desarrollos. Amante del Heavy Metal."
+    },
+    "skills": {
+        "my_skills": "Mis habilidades"
+    },
+    "projects": {
+        "my_projects": "Proyectos",
+        "kibotics": "Kibotics es una plataforma educativa para la enseñanza de robótica. Los usuarios ejecutan simulaciones de diferentes ejercicios a través del navegador web por lo que no se requiere ningún tipo de instalación. Permite enseñar distintos lenguajes de programación como Python y Scratch así como otros que se encuentran en desarrollo. Está orientado a estudiantes de últimos cursos de la ESO y Bachillerato.",
+        "unibotics": "Unibotics es una plataforma educativa para enseñar robótica. Los usuarios ejecutan simulaciones de diferentes ejercicios utilizando el navegador web por lo que no se requiere instalación de ningún tipo. Actualmente se encuentra en producción en el grado de Telemática y el Máster de Visión Artificial en la Universidad Rey Juan Carlos donde los estudiantes resuelven los ejercicios utilizando el lenguaje Python.",
+        "jderobot": "JdeRobot es una suite de desarrollo de software para aplicaciones de robótica, automatización doméstica y visión por ordenador. Estos dominios incluyen sensores (por ejemplo, cámaras), actuadores y software inteligente en el medio. Ha sido diseñado para ayudar en la programación con estos softwares inteligentes. Este proyecto fue seleccionado por Google Summer of code en 2016, 2017 y 2019."
+    },
+    "career": {
+        "my_career": "Carrera profesional",
+
+        "company_a_desc": "Desarrollo de Kibotics y Unibotics, unas plataformas educativas para enseñar robótica. Mantenimiento y despliegue de otras aplicaciones usando Django.",
+        "company_a_date": "Junio 2019",
+        
+        "company_b": "Asociación de Robótica e Inteligencia Artificial, JdeRobot",
+        "company_b_desc": "Desarrollo de una plataforma para la enseñanza de robótica llamada Kibotics y Unibotics así como profesor de apoyo para ayuda a los usuario durante el transcurso de talleres en estas mismas aplicaciones.",
+        "company_b_date": "Diciembre 2018",
+        "company_b_job": "Desarrollador y profesor de apoyo",
+        
+        "company_c_desc": "Planificación, modelado, construcción, desarrollo y despliegue de una aplicación web en Django dedicada a la recogida de datos de una obra civil para reportes diarios.",
+        "company_c_date": "Diciembre 2017"
+        
+    },
+    "blog": {
+        "my_blog": "Blog"
+    },
+    "link": {
+        "link": "Enlaces",
+        "view": "Ver",
+
+        "tfm": "Trabajo fin de Máster",
+        "cuaderno_bitacora": "Cuaderno de bitácora",
+        "mi_repo": "Repositorio Personal"
+    }
+}
