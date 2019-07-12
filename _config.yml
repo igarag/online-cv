@@ -2,7 +2,7 @@
 
 # Website settings
 title: NachoAz
-description: Nacho's blog,use Jekyll and github pages.
+description: Nacho's online CV using Jekyll and GithubPages.
 keywords: NachoAz,Jekyll,github,gh-pages
 baseurl: 'online-cv' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://igarag.github.io/online-cv  # url should be 'http://<github_username>.github.io/homepage' as before
