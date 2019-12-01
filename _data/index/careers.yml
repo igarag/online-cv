@@ -1,6 +1,22 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+
+- name:
+    detail: MMG-AI
+    i18n: mmg
+  desc:
+    detail: Development of medical imaging algorithms for the detection of dental pathologies.
+    i18n: mmg_desc
+  date:
+    detail: Oct. 2019 - Actually
+    i18n: mmg_date
+  job:
+    detail: Computer Vision Engineer
+    i18n: mmg_job
+  icon: fa-plus-square
+  present: true
+
 # Company A
 - name:
     detail: Universidad Rey Juan Carlos
@@ -15,7 +31,6 @@
     detail: Full Stack Developer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 # Company B
 - name:

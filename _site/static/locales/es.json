@@ -27,6 +27,9 @@
     "career": {
         "my_career": "Carrera profesional",
 
+        "mmg_desc": "Desarrollo de algoritmos de imágen médica para la detección de patologías en imágenes dentales",
+        "mmg_job": "Ingeniero en Visión Artificial",
+
         "company_a_desc": "Desarrollo de Kibotics y Unibotics, unas plataformas educativas para enseñar robótica. Mantenimiento y despliegue de otras aplicaciones usando Django.",
         "company_a_date": "Junio 2019",
         
